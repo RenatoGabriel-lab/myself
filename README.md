@@ -1,9 +1,10 @@
 # myself
 Sobre mim:
 
-  - Programação em Delphi/Lazarus e PHP;
+  - Programação em Delphi/Lazarus e PHP e ampliando;
   - SQL em Oracle e MySQL... em breve PostGre;
-  - Linux Ubuntu
+  - Linux Ubuntu;
+  - Cursando ADS na Cruzeiro do Sul.
 
-  - Um pouco de mecânica de carros antigos como hobby.
+  - Ah, e claro.. Um pouco de mecânica de carros antigos como hobby.
 
