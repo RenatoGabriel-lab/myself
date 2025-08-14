@@ -1,5 +1,4 @@
-# myself
-Sobre mim:
+# Sobre:
 
   - Programação em Delphi/Lazarus e PHP e ampliando;
   - SQL em Oracle e MySQL... em breve PostGre;
